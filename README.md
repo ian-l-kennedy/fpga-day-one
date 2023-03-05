@@ -19,4 +19,4 @@ In all my experience with EDA tools so far in the field of FPGA/RTL/HDL developm
 
 ## Windows 10
 
-[Back to the Table of Contents](#Table of Contents)
+[Back to the Table of Contents](#table-of-contents)
