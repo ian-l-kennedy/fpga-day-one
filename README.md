@@ -8,19 +8,9 @@
 
 <p>For more useful projects and articles, please visit https://ian-l-kennedy.github.io</p>
 
-<p>I am always interested in learning, so please feel free to add examples that you find useful and pull request. I am always interested in networking and meeting new like minded people too! So, please use my contact form @ https://ian-l-kennedy.github.io/contact if you would like to share contact information and chat.</p>
-
-## Table of Contents
-
-<p>If you are using Github to render this, then `[toc]` will not produce the Table of Contents. Instead use the button on the top left of this text pane to see the Table of Contents</p>
-
-[toc]
+<p>I am always interested in learning, so please feel free to add examples that you find useful and pull request. I am always interested in networking and meeting new like minded people too! So, please use my contact form https://ian-l-kennedy.github.io/contact if you would like to share contact information and chat.</p>
 
 # My Dev Machine
 In all my experience with EDA tools so far in the field of FPGA/RTL/HDL development, I have noticed that the Linux versions of almost all the tools are more stable and releases more frequent than Windows versions. I will have a strong bias to Linux throught my documents.
 
 ## Windows 10
-
-asd
-
-[my link](#Table of Contents)
