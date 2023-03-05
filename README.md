@@ -14,3 +14,5 @@
 In all my experience with EDA tools so far in the field of FPGA/RTL/HDL development, I have noticed that the Linux versions of almost all the tools are more stable and releases more frequent than Windows versions. I will have a strong bias to Linux throught my documents.
 
 ## Windows 10
+
+[link](#fpga-day-one)
