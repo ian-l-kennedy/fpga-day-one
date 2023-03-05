@@ -7,8 +7,8 @@
 <p>Enjoy!</p>
 
 # Table of Contents
-* [Windows 10](##windows-10)
-  * wsl
+- [Windows 10](##windows-10)
+  - wsl
 
 <p>For more useful projects and articles, please visit https://ian-l-kennedy.github.io</p>
 
@@ -19,4 +19,4 @@ In all my experience with EDA tools so far in the field of FPGA/RTL/HDL developm
 
 ## Windows 10
 
-[Back to the Table of Contents](#Table-of-Contents)
+[Back to the Table of Contents](#Table of Contents)
