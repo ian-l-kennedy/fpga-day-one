@@ -1,12 +1,16 @@
 # fpga-day-one
+<p>
 My collection of all things useful for HDL/RTL development for FPGAs that are not substantial enough to have their own repository. These examples are just enough to nudge you in the right direction. Often getting started feels the slowest. These solutions should help speed that up and get you to a nice pace sooner rather than later.
-<br />
+</p>
+<p>
 This repository also includes information of how I establish my development environment. I share what tools I use and how I install them.
-<br />
+</p>
+<p>
 Enjoy!
-<br />
+</p>
+<p>
 For more useful projects and articles, please visit https://ian-l-kennedy.github.io
-<br />
+</p>
 I am always interested in learning, so please feel free to add examples that you find useful and pull request. I am always interested in networking and meeting new like minded people too! So, please use my contact form @ https://ian-l-kennedy.github.io/contact if you would like to share contact information and chat.
 # Table of Contents
 If you are using Github to render this, then `[toc]` will not produce the Table of Contents. Instead use the button on the top left of this text pane to see the Table of Contents
