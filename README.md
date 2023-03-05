@@ -6,6 +6,10 @@
 
 <p>Enjoy!</p>
 
+# Table of Contents
+* [Windows 10](##windows-10)
+  * wsl
+
 <p>For more useful projects and articles, please visit https://ian-l-kennedy.github.io</p>
 
 <p>I am always interested in learning, so please feel free to add examples that you find useful and pull request. I am always interested in networking and meeting new like minded people too! So, please use my contact form https://ian-l-kennedy.github.io/contact if you would like to share contact information and chat.</p>
@@ -15,4 +19,4 @@ In all my experience with EDA tools so far in the field of FPGA/RTL/HDL developm
 
 ## Windows 10
 
-[link](#fpga-day-one)
+[Back to the Table of Contents](#Table-of-Contents)
