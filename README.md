@@ -6,6 +6,11 @@
 
 <p>Enjoy!</p>
 
+Please consider supporting me :]
+<br />
+<a href="https://www.buymeacoffee.com/iankennedy"><img src="https://github.com/ian-l-kennedy/ian-l-kennedy/blob/main/coffee.gif" width="100" height="100" /></a> <a href="https://www.buymeacoffee.com/iankennedy"><img src="https://github.com/ian-l-kennedy/ian-l-kennedy/blob/main/buy_cof_button.png" width="200" height="50"/></a><a href="https://www.buymeacoffee.com/iankennedy"><img src="https://github.com/ian-l-kennedy/ian-l-kennedy/blob/main/coffee.gif" width="100" height="100" /></a>
+
+
 # Table of Contents
 - [Windows 10](##windows-10)
   - wsl
