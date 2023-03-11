@@ -12,9 +12,7 @@
 <p>None of my work would have happened if I were not inspired by the countless Open Source developers and mentors out there in the community. The willingness to teach, share, and aid that is shared by so many great engineers is truly amazing! Throughtout this repo there are instructions that I may have discovered using someone else's guidance. URLs to the pages that I used are at the bottom of this README, [here](#urls-of-useful-tools-and-reference)</p>
 
 # Table of Contents
-Courtesy of https://luciopaiva.com/markdown-toc/
-- [fpga-day-one](#fpga-day-one)
-- [Table of Contents](#table-of-contents)
+Table of Contents courtesy of https://luciopaiva.com/markdown-toc/
 - [My Dev Machine](#my-dev-machine)
   - [Windows 10 OS](#windows-10-os)
   - [Mac OS](#mac-os)
@@ -40,41 +38,39 @@ Courtesy of https://luciopaiva.com/markdown-toc/
 <p>I am always interested in learning, so please feel free to add examples that you find useful and pull request. I am always interested in networking and meeting new like minded people too! So, please use my contact form https://ian-l-kennedy.github.io/contact if you would like to share contact information and chat.</p>
 
 # My Dev Machine
-In all my experience with EDA tools so far in the field of FPGA/RTL/HDL development, I have noticed that the Linux versions of almost all the tools are more stable and releases more frequent than Windows versions. I will have a strong bias to Linux throught my documents.
+In all my experience with EDA tools so far in the field of FPGA/RTL/HDL development, I have noticed that the Linux versions of almost all the tools are more stable and released more frequent than Windows versions. I will have a strong bias to Linux throught my documents.
 
 ## Windows 10 OS
 [Back to the Table of Contents](#table-of-contents)
-#### Terminal
-#### WSL: Windows Subsystem for Linux
-#### RDP for WSL
-#### VPN Kit for WSL
+### Terminal
+### WSL: Windows Subsystem for Linux
+### RDP for WSL
+### VPN Kit for WSL
 
 ## Mac OS
 [Back to the Table of Contents](#table-of-contents)
-#### iTerm
-#### Microsoft Remote Desktop
-#### TeamViewer
-#### References
+### iTerm
+### Microsoft Remote Desktop
+### TeamViewer
+### References
 * [The fastest and easiest way to install Ruby on a Mac in 2023](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/?utm_source=stackoverflow&utm_campaign=51126403)
 * [DS_Store Files (What & How to Open,Hide,Delete & Disable)](https://iboysoft.com/wiki/ds-store.html)
 
 ## Ubuntu OS
 [Back to the Table of Contents](#table-of-contents)
-#### General Settings
-#### NeoVim, Tmux
-#### RDP
-#### TeamViewer Host
-#### Quartus Lite
-#### QuestaSim
-#### Diamond
-#### Xilinx Vivado
-#### Libero SoC
-#### YoSys
-#### Language Servers
-###### VHDL
-###### SystemVerilog
-#### Verilator
-#### GHDL
+### General Settings
+### NeoVim, Tmux
+### RDP
+### TeamViewer Host
+### Quartus Lite
+### QuestaSim
+### Diamond
+### Xilinx Vivado
+### Libero SoC
+### YoSys
+### Language Servers
+### Verilator
+### GHDL
 
 ## TCL 
   Downloaded https://core.tcl-lang.org/tcllib/technote/cd3a11c3065120d491009e64a19f7676176045cd
@@ -83,7 +79,8 @@ sudo tclsh /tools/lib/tcl/tcllib/tcllib-1.20/installer.tcl
 attempt:
 package require <something> 
 
-# Simple Examples
+# Examples
+[Back to the Table of Contents](#table-of-contents)
 ## SPAR (Synthesis, Place And Route)
 ### SPAR Vivado
 ### SPAR Diamond
@@ -91,6 +88,7 @@ package require <something>
 ### SPAR Quartus
 ## Simulation
 ### Simple
+[Back to the Table of Contents](#table-of-contents)
 #### Simulation XSIM
 #### Simulation QuestaSim
 #### Simulation Verilator
@@ -102,6 +100,7 @@ package require <something>
 #### 
   
 # Reference/Resource Articles
+[Back to the Table of Contents](#table-of-contents)
 * http://outputlogic.com/?page_id=321
 http://outputlogic.com/my-stuff/circuit-cellar-january-2010-crc.pdf
   https://learn.microsoft.com/en-us/windows/wsl/install
@@ -116,6 +115,7 @@ https://www.youtube.com/watch?v=EAxRNoRRvFQ
   https://ecotrust-canada.github.io/markdown-toc/
 https://stackoverflow.com/questions/60441221/double-click-to-select-text-in-windows-terminal-selects-only-one-word
 # Interesting Articles
+[Back to the Table of Contents](#table-of-contents)
 * https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/
 https://discord.com/blog/why-discord-is-switching-from-go-to-rust#:%7E:text=Discord%20is%20a%20product%20focused,and%20messages%20you%20have%20read
 https://www.geeksforgeeks.org/rust-vs-c-will-rust-replace-c-in-future/
@@ -135,6 +135,7 @@ https://youtu.be/-lYeJeQ11OI
 
 https://youtu.be/rAl-9HwD858
 # URLs of Useful Tools and Reference
+[Back to the Table of Contents](#table-of-contents)
  * https://github.com/ohmybash/oh-my-bash
 https://neovim.io/
   
